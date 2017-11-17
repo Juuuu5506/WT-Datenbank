@@ -7,5 +7,6 @@ public class MainClass {
 		MainPresenter mp = new MainPresenter();
 		mp.startProgram();
 		int i;
+		//Hallo
 	}
 }
