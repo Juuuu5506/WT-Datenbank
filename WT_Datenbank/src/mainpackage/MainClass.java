@@ -7,9 +7,5 @@ public class MainClass {
 		MainPresenter mp = new MainPresenter();
 		mp.startProgram();
 		int i;
-		String a;//ASDF
-		//Hallo
-		//abcd
-		//hj
 	}
 }
