@@ -8,5 +8,8 @@ public class MainClass {
 		mp.startProgram();
 		int i;
 		String a;
+		//Hallo
+		//abcd
+		//hj
 	}
 }
