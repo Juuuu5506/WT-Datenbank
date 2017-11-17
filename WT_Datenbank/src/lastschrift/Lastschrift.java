@@ -5,7 +5,7 @@ public class Lastschrift {
 	public static String read() {
 		
 		String data = new String();
-		data = "test";
+		data = "testk";
 		return data;
 	}
 
